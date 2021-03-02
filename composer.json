@@ -32,7 +32,7 @@
         "source": "https://github.com/sandstorm/UserManagement"
     },
     "require": {
-        "neos/flow": "^6.0 || dev-master",
+        "neos/flow": "^6.0 || ^7.0 || dev-master",
         "sandstorm/templatemailer": "^2.0"
     },
     "autoload": {
@@ -55,8 +55,6 @@
             "Neos.Neos.Ui-20190319094900",
             "Neos.Flow-20190425144900",
             "Neos.Flow-20190515215000",
-            "Networkteam.Neos.MailObfuscator-20190919145400",
-            "Flowpack.ElasticSearch.ContentRepositoryAdaptor-20200513223401",
             "Neos.Flow-20200813181400",
             "Neos.Flow-20201003165200",
             "Neos.Flow-20201109224100",
