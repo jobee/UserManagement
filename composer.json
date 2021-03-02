@@ -57,7 +57,8 @@
             "Neos.Flow-20190515215000",
             "Networkteam.Neos.MailObfuscator-20190919145400",
             "Flowpack.ElasticSearch.ContentRepositoryAdaptor-20200513223401",
-            "Neos.Flow-20200813181400"
+            "Neos.Flow-20200813181400",
+            "Neos.Flow-20201003165200"
         ]
     }
 }
